@@ -2,4 +2,4 @@ name: MongoDB
 description: |
   MongoDB Replica Set.
 version: "3.4-rancher1"
-category: Databases
+category: NoSql
